@@ -1,0 +1,7 @@
+[package]
+name = "terminal_gfx"
+version = "0.1.0"
+authors = ["usbalbin <albin9604@gmail.com>"]
+
+[dependencies]
+terminal_size = {git = "https://github.com/eminence/terminal-size.git" }
